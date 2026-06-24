@@ -1,0 +1,7 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+Flickr8k_Dataset/* filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+Test[[:space:]]Images/* filter=lfs diff=lfs merge=lfs -text
